@@ -3,6 +3,7 @@ RewriteEngine On
 RewriteRule ^download$ download.php [L,QSA]
 RewriteRule ^verify$ verify.php [L,QSA]
 
+# Denegar acceso directo a archivos internos
 <Files "_data.php">
   Require all denied
 </Files>

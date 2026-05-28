@@ -3,6 +3,6 @@ require __DIR__ . '/_lib.php';
 
 sendJson(200, [
     'ok' => true,
-    'nombre' => $result['record']['nombre'],
+    'nombre' => $result['nombre'],
     'registro' => $result['code'],
 ]);
