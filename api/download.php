@@ -1,7 +1,7 @@
 <?php
 require __DIR__ . '/_lib.php';
 
-$pdfPath = __DIR__ . '/../private/diplomado/' . $result['code'] . '.pdf';
+$pdfPath = __DIR__ . '/../private/diplomado/' . $result['hashValidacion'] . '.pdf';
 
 if (!file_exists($pdfPath)) {
     sendJson(404, ['error' => 'PDF no encontrado']);

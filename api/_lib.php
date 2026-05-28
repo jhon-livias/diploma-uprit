@@ -72,7 +72,7 @@ function validatePayload(array $payload, array $records): array {
         sendJson(403, ['error' => 'No autorizado']);
     }
 
-    return ['code' => $code, 'dni' => $dni, 'nombre' => $record['nombre']];
+    return ['code' => $code, 'dni' => $dni, 'nombre' => $record['nombre'], 'hashValidacion' => $record['hashValidacion']];
 }
 
 // ── Entry point ───────────────────────────────────────────────────────────────
