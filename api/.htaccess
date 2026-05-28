@@ -1,3 +1,11 @@
 Options -Indexes
 RewriteEngine On
 RewriteRule ^download$ download.php [L,QSA]
+RewriteRule ^verify$ verify.php [L,QSA]
+
+<Files "_data.php">
+  Require all denied
+</Files>
+<Files "_lib.php">
+  Require all denied
+</Files>

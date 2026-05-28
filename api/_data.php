@@ -1,0 +1,28 @@
+<?php
+// Generado automáticamente — no editar a mano. Ejecutar: npm run generate-data
+return [
+    '001-FJEI-2026' => ['dniHash' => '11fae5a7ec3399aed43b807689006b803d05ee2da5a40ffc7bda13ccdeb68c4a', 'nombre' => 'ANTÓN DE LA CRUZ JESSICA ELIZABETH'],
+    '002-FJEI-2026' => ['dniHash' => 'd9ac81a6a648ebb3da0f70dc95724cf43aa9a4f98eb54b6df21a24875ecf55c5', 'nombre' => 'BUSTAMANTE DAZA EDWIN'],
+    '003-FJEI-2026' => ['dniHash' => 'ac56e51c762701b72438e530496ba78c6a6bc70daffa68141e5c63890d8cc780', 'nombre' => 'CASTILLO RUJEL JESSICA ANABELLA'],
+    '004-FJEI-2026' => ['dniHash' => '381729ef25a35b2562d2aebfbb34f82b02522fca557f7dd21abb7fe404b21984', 'nombre' => 'CHALLCO ARAOZ ANA CLAUDIA'],
+    '005-FJEI-2026' => ['dniHash' => '99247bc4bc948640cf0a78aabf642b3da7571dcfb5808d408afd920178ca7744', 'nombre' => 'CONDE MERMA JOSE'],
+    '006-FJEI-2026' => ['dniHash' => '287f526b8746445d13a95746ad012f7d7ae14351ac49f792c53e0df6c2d38791', 'nombre' => 'DOMÍNGUEZ DEZAR AUGUSTO PERCY'],
+    '007-FJEI-2026' => ['dniHash' => '6d1eded34d380d882e79f602a5acc9e8a45e13352d0755ee668b10c857a9ef69', 'nombre' => 'DURAND BAZÁN MÓNICA CECILIA'],
+    '008-FJEI-2026' => ['dniHash' => '04253a79a7dee0e0b5ecc52ad98f5da7becba6f8cbcbcbf20b629016be01128c', 'nombre' => 'ESQUICHE VERA IVÁN GILBERTO'],
+    '009-FJEI-2026' => ['dniHash' => '3fed59882eee7574ebfea506c70d1249a05066287e5eccee25cf737a8a07ce31', 'nombre' => 'FARFÁN DE LA CRUZ AMELIA ROSARIO'],
+    '010-FJEI-2026' => ['dniHash' => 'f2fad767c5f4a3429c6ca6718a97aad042dc1326f605305e26f78f81b9dd5913', 'nombre' => 'GAMBINI RODRIGUEZ ANGELA PAOLA'],
+    '011-FJEI-2026' => ['dniHash' => 'ef8b45fb592b69af2e585467399266dd7b555446208203ee83d5187209e04158', 'nombre' => 'GARCÍA GONZÁLES GILMER DAVID'],
+    '012-FJEI-2026' => ['dniHash' => '9738fa900d50505733d676b09f0d8253b5ae464755bdffa088a5522609391427', 'nombre' => 'HUACLLA GÓMEZ AMALIA JUANA'],
+    '013-FJEI-2026' => ['dniHash' => 'e264186f1e563154797983732b11f4d46f9fc867a688d1ce69fa326ec32ea3a9', 'nombre' => 'JUAREZ MORENO ORLANDO CARLOS'],
+    '014-FJEI-2026' => ['dniHash' => '7aca83c29ac35ca11c06a1f99ef7a3e64aa0a9efc5da411f4cadc3aaa3e94408', 'nombre' => 'LÁZARO JULIAN NÁYADE INDIRA'],
+    '015-FJEI-2026' => ['dniHash' => '3f55fad5112346452db64c4080c898b183bf07c46773ca34ccfeebd38ad7bf4c', 'nombre' => 'LLANTOY MEZA JOSE LUIS'],
+    '016-FJEI-2026' => ['dniHash' => '209d86696b5a860398f86937cd18099fc0ddfc81fb8ed9f2ff92579ef54c6934', 'nombre' => 'LOPEZ SENCIA JUANA IRIS'],
+    '017-FJEI-2026' => ['dniHash' => '4bbf79ef885f97d04fdc993822da04717c09fc395bc63b4e1bbeff4cea8026c7', 'nombre' => 'NECIOSUP FABERICO JOSÉ LUIS'],
+    '018-FJEI-2026' => ['dniHash' => 'fac6a83adfe4b6b509a981d67590dcdc3c418fa9ce4a97efc6db7ee7bc3c57c6', 'nombre' => 'ROBLES PAGADOR MARIA EUGENIA'],
+    '019-FJEI-2026' => ['dniHash' => '27a39a204f4a5b431871329df2cf25125b248b6bd11e5ccc33b27412ee70c776', 'nombre' => 'SILVA KUO YING ALFONSO ANTERO'],
+    '020-FJEI-2026' => ['dniHash' => 'c428dac915b2ec5afb04894e1516f30a3949490ee2881f89978cbfcb79d955c8', 'nombre' => 'SILVA KUO YING GUSTAVO ANTERO'],
+    '021-FJEI-2026' => ['dniHash' => '93f16b3091316d4823bc00ab9ec7d86c92ef210479155695c641be2c6e851a15', 'nombre' => 'VALLE FABERIO WOLFGANG PAUL'],
+    '022-FJEI-2026' => ['dniHash' => 'a76a7ce005083f604cff3bd6893684be4f0b2d8efb2b2e8fa790f0e2309151cc', 'nombre' => 'VASQUEZ CAMPOS CONSUELO'],
+    '023-FJEI-2026' => ['dniHash' => '00ff539bca722367ff7acaa06256acdfa3ae1d2d3961a400a2ddadd495505b64', 'nombre' => 'VASQUEZ EVANGELISTA SUSAM MARIBEL'],
+    '024-FJEI-2026' => ['dniHash' => '2b78710ac85e81a2e5a0f996b448bc52c44bb5d1c5554087595beb42bf55e6d9', 'nombre' => 'VENTURA GONZALEZ CHRISTIAN IVAN'],
+];
